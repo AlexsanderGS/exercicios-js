@@ -3,7 +3,7 @@ const precoEtanol = 4.13;
 const precoGasolina = 6.43;
 const combustivelPorKm = 16;
 
-let tipoCombustivel = 'gasolina'
+let tipoCombustivel = 'gasolina';
 let distanciaEmKm = 500;
 
 if (tipoCombustivel === 'etanol') {

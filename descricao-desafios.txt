@@ -25,3 +25,14 @@ Você terá 3 variáveis. Sendo elas:
 Imprima no console o valor que será gasto para realizar esta viagem.
 
 ------------------------------------ // ----------------------------------------------------------------
+
+Desafio 03: Calculando média de notas
+
+Faça um algoritimo que dado as 3 notas obtidas por um aluno em um semestre da faculdade e impriam a sua média e a sua classificação conforme tabela abaixo:
+
+Média = (nota1 + nota2 + nota3) / 3;
+
+Classificação:
+- Média menor que 5 -> Reprovado;
+- Média entre 5 e 7 -> Recuperação;
+- Média acima de 7, -> Aprovado.
