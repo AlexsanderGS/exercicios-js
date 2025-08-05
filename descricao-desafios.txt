@@ -9,7 +9,7 @@ Você terá 3 variáveis. Sendo elas:
 
 Imprima no console o valor que será gasto para realizar esta viagem.
 
------------------------------------- // ----------------------------------------------------------------
+------------------------------------------------------------------ // --------------------------------------------------------------------------------------------
 
 Desafio 02: Calcular o custo de uma viagem
 
@@ -24,7 +24,7 @@ Você terá 3 variáveis. Sendo elas:
 
 Imprima no console o valor que será gasto para realizar esta viagem.
 
------------------------------------- // ----------------------------------------------------------------
+------------------------------------------------------------------ // --------------------------------------------------------------------------------------------
 
 Desafio 03: Calculando média de notas
 
@@ -37,7 +37,7 @@ Classificação:
 - Média entre 5 e 7 -> Recuperação;
 - Média acima de 7, -> Aprovado.
 
------------------------------------- // ----------------------------------------------------------------
+------------------------------------------------------------------ // --------------------------------------------------------------------------------------------
 
 Desafio 04: Cálculo de IMC
 O IMC - Indice de Massa Corporal é um critério da Organização Mundia da Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta.
@@ -52,7 +52,7 @@ Elabore um algoritimo que dado o peso e a altura de um adulto mostre a sua condi
 - Entre 30 e 40 -> Obesidade;
 - Acima de 40 -> Obesidade grave;
 
------------------------------------- // ----------------------------------------------------------------
+------------------------------------------------------------------ // --------------------------------------------------------------------------------------------
 
 Desafio 05: Cálculo do valor de um produto
 Elabore um algoritimo que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e escolha a condição de pagamento.
@@ -63,3 +63,10 @@ Condições de pagamento:
 - À vista no dinheiro ou pix, recebe 15% de desconto;
 - Em duas vezes, preço normal de etiqueta sem júros;
 - Acima de duas vezes, preço normal de etiqueta mais júros de 10%.
+
+------------------------------------------------------------------ // --------------------------------------------------------------------------------------------
+
+Desafio 06: Classe para carros
+
+- Crie uma classe para representar carros. Os carros possuem marca, cor e um gasto médio de combustível por kilômetro rodado.
+- Crie um método que dado a quantidade de quilómetros e o preço do combustível nos dê o valor gasto em Reais para realizar este produto.
