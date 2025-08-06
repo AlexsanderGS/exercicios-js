@@ -66,7 +66,15 @@ Condições de pagamento:
 
 ------------------------------------------------------------------ // --------------------------------------------------------------------------------------------
 
-Desafio 06: Classe para carros
+Desafio 06: Classe para representar carros
 
 - Crie uma classe para representar carros. Os carros possuem marca, cor e um gasto médio de combustível por kilômetro rodado.
 - Crie um método que dado a quantidade de quilómetros e o preço do combustível nos dê o valor gasto em Reais para realizar este produto.
+
+------------------------------------------------------------------ // --------------------------------------------------------------------------------------------
+
+Desafio 07: Classe para representar pessoas.
+
+- Para cada pessoa teremos os atributos: nome, peso e altura;
+- As pessoas devem a capacidade de dizer o valor do seu IMC (IMC = PESO / (ALTURA * ALTURA));
+- Instâncie uma pessoa chamada José que tenha 70kg de peso e 1,75 de altura, e peça para José dizer o valor do seu IMC.
